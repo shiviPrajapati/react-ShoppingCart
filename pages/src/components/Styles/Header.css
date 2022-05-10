@@ -1,0 +1,21 @@
+.navbar{
+    background-color: gray;
+    position: static;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 10px;
+} 
+
+.link{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    margin-left: 30px;
+}

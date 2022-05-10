@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "price": 90,
+        "name": "Vanilla Icecream Scoop",
+        "pic": "./images/vanilla.jpg",
+        "count": 1
+    }
+]

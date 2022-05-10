@@ -1,0 +1,73 @@
+.detailsCart{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.cartimage{
+    object-fit: cover; 
+    height: 90%;
+    width: 100%;
+}
+
+.cartimgdiv{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+       
+}
+
+.detaildiv{
+    width: 200px;
+}
+
+.countdiv{
+    width: 200px; 
+}
+
+.amount{
+    border: 1px solid rgb(163, 154, 154);
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 4px ;
+}
+
+.deletediv{
+    width: 200px;
+}
+
+
+.countdiv span{
+    color: black;
+    padding: 0 15px;
+}
+
+.amount .count{
+    width: 40px;
+    border: none;
+    font-size: 22px;
+    background-color: rgb(202, 194, 194);
+
+}
+
+.delete{
+    margin-top: 10px;
+    color: crimson;
+    font-weight: 900;
+    font-size: 15px;
+}
+
+
+.orderbtn{
+    background-color: lightgreen;
+    color: white;
+    padding: 6px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 40px;
+    margin-left: 70%;
+}  

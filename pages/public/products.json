@@ -1,0 +1,43 @@
+
+[
+    {
+        "id": 1,
+        "price": 90,
+        "name": "Vanilla Icecream Scoop",
+        "pic": "./images/vanilla.jpg",
+        "count": 1,
+        "desc": "Vanilla ice cream is the most common and basic flavour of ice cream which is favourite amongst all. Vanilla ice cream is made by blending in vanilla essence in along with the eggs (optional), cream, milk and sugar. The vanilla essence added gives the ice cream a very natural aroma and vanilla flavour."
+    },
+    {
+        "id": 2,
+        "price": 122,
+        "name": "Butter Scotch Icebar",
+        "pic": "./images/butterscotch-.jpg",
+        "count": 1,
+        "desc": "An extremely popular ice cream recipe made with cooking cream, jaggery, and condensed milk. this ice cream recipe is known for its creamy taste, flavor and crunchy butterscotch crystals you get while scooping each bite."
+    },
+    {
+        "id": 3,
+        "price": 80,
+        "name": "Chocolate Icecream",
+        "pic": "./images/chocolate.jpg",
+        "count": 1,
+        "desc": "Chocolate ice cream is generally made by blending cocoa powder along with the eggs, cream, vanilla, and sugar used to make vanilla ice cream. Sometimes chocolate liquor is used in addition to cocoa powder, or it is used exclusively, to create the chocolate flavor."
+    },
+    {
+        "id": 4,
+        "price": 115,
+        "name": "Powder Keg Custord",
+        "pic": "./images/powder.jpg",
+        "count": 1,
+        "desc": "Frozen custard is a cold dessert similar to ice cream, but made with eggs in addition to cream and sugar. It is usually kept at a warmer temperature compared to ice cream, and typically has a denser consistency."
+    },
+    {
+        "id": 5,
+        "price": 210,
+        "name": "Peanut Bar Icecream",
+        "pic": "./images/frozen.jpeg",
+        "count": 1,
+        "desc": "This ice cream is enriched with salted peanut butter that is swirled with crunchy peanuts. It is rich, creamy and full of flavour. An extremely delicious ice cream that is low in calories."
+    }
+]
